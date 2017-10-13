@@ -1,0 +1,30 @@
+{
+  "name": "nigerians.js",
+  "version": "1.0.0",
+  "description": "Get fake Nigerian user data",
+  "main": "src/nigerians.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mczlatan/nigerians.js.git"
+  },
+  "keywords": [
+    "Random",
+    "Nigerian",
+    "User",
+    "Data",
+    "Fake",
+    "Nigeria"
+  ],
+  "author": "mczlatan <bournethesonofthegun@gmail.com> (https://mczlatan.github.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mczlatan/nigerians.js/issues"
+  },
+  "homepage": "https://github.com/mczlatan/nigerians.js#readme",
+  "dependencies": {
+    "unique-random-array": "1.0.0"
+  }
+}
